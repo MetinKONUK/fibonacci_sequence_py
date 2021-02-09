@@ -1,4 +1,4 @@
-#WARNING! ********************** This is an infinite loop! Make sure to fire it in a interruptible IDE. **********************
+#WARNING! ********************** This is an infinite loop! Make sure to fire it in an interruptible IDE. **********************
 count = 1
 prev_num = 1
 print("0\n1")
